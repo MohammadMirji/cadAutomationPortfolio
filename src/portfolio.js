@@ -26,8 +26,8 @@ const greeting = {
     "Mechanical Engineer building CAD automation tools and engineering software for modern manufacturing workflows.",
   resumeLink:
     "https://drive.google.com/file/",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository: "https://github.com/MohammadMirji/cadAutomationPortfolio",
+  githubProfile: "https://github.com/MohammadMirji",
 };
 
 const socialMediaLinks = [
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/MohammadMirji",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -54,31 +54,31 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://youtube.com/c/DevSense19",
+    link: "https://youtube.com/",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:shehbazmirji@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "X-Twitter",
-    link: "https://twitter.com/ashutosh_1919",
+    link: "https://twitter.com/mohammadmirji",
     fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
     backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
+    link: "https://www.facebook.com/",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "https://www.instagram.com/moinuddin_mirji/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -87,8 +87,8 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
+      title: "CAD Automation",
+      fileName: "CAD Automation",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
